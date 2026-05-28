@@ -1,8 +1,9 @@
 {
   "name": "Sleep Quality Checker",
   "short_name": "sleep-qualit",
-  "start_url": "/",
+  "start_url": "/side-business-tax-calculator/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/side-business-tax-calculator/"
 }
