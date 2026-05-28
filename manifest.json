@@ -3,7 +3,7 @@
   "short_name": "sleep-qualit",
   "start_url": "/side-business-tax-calculator/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#6366f1",
   "theme_color": "#6366f1",
   "scope": "/side-business-tax-calculator/"
 }
